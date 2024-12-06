@@ -17,7 +17,7 @@ shinyUI(   fluidPage(
     wellPanel(
       h4("Details"),
       HTML("<p> Github Repository <a href='https://github.com/AbhijitPaul10/Data-Science-Capstone--Final-Project-main' target='_blank'>https://github.com/AbhijitPaul10/Data-Science-Capstone--Final-Project-main</a></p>"),
-      HTML("<p> Slide Deck Presentation  <a href='https://abhijitpaul.shinyapps.io/Data-Science-Capstone--Final-Project-main/' target='_blank'>https://abhijitpaul.shinyapps.io/Data-Science-Capstone--Final-Project-main/</a></p>"),
+      HTML("<p> Slide Deck Presentation  <a href='https://rpubs.com/AbhijitPaul/1253946' target='_blank'>https://rpubs.com/AbhijitPaul/1253946</a></p>"),
       h4("Author:"),
       p("Abhijit Paul")
     )
