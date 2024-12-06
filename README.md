@@ -1,6 +1,6 @@
 # Data-Science-Capstone--Final-Project
-Ishaq Ali Shah
-28-08-2024
+Abhijit Paul
+06-12-2024
 
 Coursera Data Science Specialization Course-Capstone Final peer graded assignment
 
@@ -12,8 +12,8 @@ This repository contains the ui.R and server.R source code files for the develop
 The Shiny application is hosted on shinyapps.io and the Presentation (slides) are available on RPubs.
 
 Links
-Final project submission (Shiny App): https://durrani1435.shinyapps.io/DataScienceCapstone/
+Final project submission (Shiny App): https://abhijitpaul.shinyapps.io/Data-Science-Capstone--Final-Project-main/
 
-Final project submission (Presentation): https://rpubs.com/Ishaq/DataScienceCapstone
+Final project submission (Presentation): https://rpubs.com/AbhijitPaul/1253946
 
-Source code files available on GitHub: https://github.com/IshaqDurrani/Data-Science-Capstone--Final-Project
+Source code files available on GitHub: https://github.com/AbhijitPaul10/Data-Science-Capstone--Final-Project-main
