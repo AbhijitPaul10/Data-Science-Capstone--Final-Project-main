@@ -2,9 +2,10 @@
 title: "Data Science Capstone- Final Project"
 author: "Abhijit Paul"
 date: "2024-12-06"
-output: 
+output:
   ioslides_presentation: default
   html_notebook: default
+  slidy_presentation: default
 ---
 
 ```{r setup, include=FALSE}
@@ -19,7 +20,7 @@ University.
 
 The source code files for this project can be found on GitHub:
 
-<a target="_blank" href="    ">GitHub</a>
+<a target="_blank" href="https://github.com/AbhijitPaul10/Data-Science-Capstone--Final-Project-main">GitHub</a>
 
 ## Course Project
 
@@ -34,7 +35,7 @@ The name of the Shiny application developed for this project is the
 Next Word Prediction App and is hosted on RStudio's
 shinyapps.io hosted service:
 
-<a target="_blank" href="   ">Shiny App</a>
+<a target="_blank" href="https://abhijitpaul.shinyapps.io/Data-Science-Capstone--Final-Project-main/">Shiny App</a>
 
 ## Next Word Prediction App
 
